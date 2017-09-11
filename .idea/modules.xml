@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LoginJSP/LoginJSP.iml" filepath="$PROJECT_DIR$/LoginJSP/LoginJSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginServlet/LoginServlet.iml" filepath="$PROJECT_DIR$/LoginServlet/LoginServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginSpring/LoginSpring.iml" filepath="$PROJECT_DIR$/LoginSpring/LoginSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginStruts/LoginStruts.iml" filepath="$PROJECT_DIR$/LoginStruts/LoginStruts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginStruts2/LoginStruts2.iml" filepath="$PROJECT_DIR$/LoginStruts2/LoginStruts2.iml" />
+    </modules>
+  </component>
+</project>

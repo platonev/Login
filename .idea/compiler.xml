@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LoginJSP" />
+        <module name="LoginServlet" />
+        <module name="LoginSpring" />
+        <module name="LoginStruts" />
+        <module name="LoginStruts2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="LoginJSP" target="1.5" />
+      <module name="LoginServlet" target="1.5" />
+      <module name="LoginSpring" target="1.5" />
+      <module name="LoginStruts" target="1.5" />
+      <module name="LoginStruts2" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

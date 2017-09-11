@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LoginJSP:war">
+    <output-path>$PROJECT_DIR$/LoginJSP/target</output-path>
+    <root id="archive" name="login-jsp.war">
+      <element id="artifact" artifact-name="LoginJSP:war exploded" />
+    </root>
+  </artifact>
+</component>
